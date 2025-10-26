@@ -15,3 +15,5 @@ A simple **Stock Management System** for school students, built with **Python** 
 1. Clone the repository:
 ```bash
 git clone https://github.com/sgr-m/stock-management-system-using-python-sql.git
+2. Import stockManagement.sql using XAMPP --> phpMyAdmin
+3. Execute stockManagementSystem.py from Python Editor
