@@ -1,4 +1,17 @@
-# stock-management-system-using-python-sql
-STOCK MANAGEMENT SYSTEM USING PYTHON 3 AND SQL
-__________-----------____________---------------
-Read PDF attached to implement the code.
+# Stock Management System using Python & SQL
+
+A simple **Stock Management System** for school students, built with **Python** and **MySQL/SQLite**, featuring user authentication, inventory management, sales tracking, and reporting.
+
+---
+
+## 📦 Features
+- Database Connection using mysql.connector
+- Add, update, delete, and search products and suppliers
+- Record and track sales
+---
+
+## 🧰 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/sgr-m/stock-management-system-using-python-sql.git
